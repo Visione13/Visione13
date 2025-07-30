@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hey im Alice aaaand<br><br>- 📚 I’m studiyng Computer Science<br>- ⚡ I love Videogames, Carsy Bikes, Drones and technical stuff in general</p>
+<p align="left">Hey im Alice aaaand<br><br>- 📚 I’m studiyng Computer Science<br>- ⚡ I love Videogames, Cars, Bikes, Drones and technical stuff in general</p>
 
 ###
 
